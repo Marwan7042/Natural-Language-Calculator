@@ -1,0 +1,5 @@
+word2number
+spacy
+pytest
+# Also run:
+# python -m spacy download en_core_web_sm
